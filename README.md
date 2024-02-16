@@ -18,3 +18,5 @@
 #weight_optimaltime小车卡住时，可适当调大
 
 #以上为一些关键参数调整，具体见博客https://blog.csdn.net/qq_42406643/article/details/118754093?ops_request_misc=&request_id=&biz_id=102&utm_term=ros2%E5%AF%BC%E8%88%AA%E8%B0%83%E5%8F%82&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-118754093.nonecase&spm=1018.2226.3001.4187
+
+由于github不是很会熟练运用，更多笔记资料等可以去我的csdn博客看用户名：foreverheart7
